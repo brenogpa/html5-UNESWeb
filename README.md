@@ -19,7 +19,6 @@ Hey there! This project was built to develop HTML skills!
 ## This is me
 **Breno Abreu**
 * [**Git Hub**](https://github.com/brenogpa)
-* [**Instagram**](https://www.instagram.com/brenogpa/)
 * **brenogpa@gmail.com**
 
 
